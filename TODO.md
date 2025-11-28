@@ -1,0 +1,4 @@
+- [ ] Update user image src in dropdown to remove 'public/' from URL
+- [ ] Update brand image src in aside to remove 'public/' from URL
+- [ ] Add id="sidebar" to the aside element
+- [ ] Add aria-controls="sidebar" to the toggle link
